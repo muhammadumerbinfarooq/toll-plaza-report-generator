@@ -20,7 +20,7 @@ The Toll Plaza Report Generator is a basic Dart application that provides a summ
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/toll-plaza-report-generator.git
+    git clone https://github.com/muhammadumermemon/toll-plaza-report-generator.git
     ```
 
 2. **Navigate to the project directory:**
